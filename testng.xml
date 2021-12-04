@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+<!--        <class name="SeleniumTraining.FlUpload_noroboclass"/> -->
+  <!--     <class name="SeleniumTraining.RobotClass"/> -->
+   <!--   <class name="SeleniumTraining.iframe"/>-->
+    <!--  <class name="SeleniumTraining.SwitchWindow"/>-->
+    <!--  <class name="SeleniumTraining.locators"/>-->
+    <!--  <class name="SeleniumTraining.CheckboxExercise"/>-->
+     <!-- <class name="SeleniumTraining.PackageInfo"/>-->
+     <!-- <class name="SeleniumTraining.browserNavigations"/>-->
+     <!-- <class name="SeleniumTraining.selectbox"/>-->
+     <!-- <class name="SeleniumTraining.firefox"/>-->
+     <!-- <class name="SeleniumTraining.draganddrop"/>-->
+     <!-- <class name="SeleniumTraining.DatePicker"/>-->
+     <!-- <class name="SeleniumTraining.Alertbox"/>-->
+     <!-- <class name="SeleniumTraining.radiobutton"/>-->
+      <class name="SeleniumTraining.HoverOver"/>
+      <class name="SeleniumTraining.screenshot"/>
+      <class name="SeleniumTraining.SampleDriver"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
